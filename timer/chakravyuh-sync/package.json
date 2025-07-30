@@ -1,0 +1,13 @@
+{
+  "name": "chakravyuh-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Synchronized 50-hour Chakravyuh countdown with server-side state and SSE.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

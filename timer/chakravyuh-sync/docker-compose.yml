@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  chakravyuh:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./state:/app
+    environment:
+      - PORT=8080
+      - STATE_DIR=/app
+    restart: unless-stopped

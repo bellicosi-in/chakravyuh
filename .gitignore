@@ -1,0 +1,9 @@
+*.pdf
+node_modules/
+state/
+*.log
+*.zip
+timer/chakravyuh-sync/node_modules/
+state/
+*.log
+*.zip

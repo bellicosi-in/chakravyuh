@@ -16,3 +16,15 @@
 # CONCLUSION
 
 * More iterations and time required to understand things fundamentally. 
+
+# REFERENCES
+* <https://sites.google.com/view/kspmath>
+* <https://www.asterank.com/>
+* <https://beyondnerva.wordpress.com/nuclear-thermal-propulsion/>
+* <https://projectrho.com/public_html/rocket/engines.php>
+* <https://www.russianspaceweb.com/>
+* <http://www.astronautix.com/p/propellants.html>
+* <https://space.skyrocket.de/index.html>
+* <http://www.braeunig.us/space/orbmech.htm>
+* <https://space.nss.org/nss-roadmap-to-space-settlement-3rd-edition-2018-contents/>
+
